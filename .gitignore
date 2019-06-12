@@ -1,0 +1,8 @@
+__pycache__
+.spyproject
+config.py
+.DS_Store
+.vscode*
+*.code-workspace
+Thumbs.db
+/out
